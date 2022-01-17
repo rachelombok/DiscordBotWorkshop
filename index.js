@@ -2,6 +2,7 @@ const {
     prefix,
     token,
 } = require('./config.json');
+require('dotenv').config();
 const ytdl = require('ytdl-core');
 // import dependencies, and variables from our json file
 const { Client, Intents, MessageEmbed } = require('discord.js');
