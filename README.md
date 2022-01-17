@@ -28,7 +28,7 @@ web development, game engineering, 3D modeling and AR and VR!
 
 ## Prerequisites
 
-* a Discord account ([sign up here]())
+* a Discord account ([sign up here](https://discord.com))
 * NodeJS([`node`](https://nodejs.org/en/download/)) and [`npm`](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) installed
 * your favorite IDE 🤩 (VSCode, Notepad++, Webstorm, etc.)
 ## Workshop Resources
