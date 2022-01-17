@@ -4,7 +4,6 @@
     token,
 } = require('./config.json');*/
 require('dotenv').config();
-console.log(process.env.TOKEN);
 // import dependencies, and variables from our json file
 const { Client, Intents, MessageEmbed } = require('discord.js');
 
