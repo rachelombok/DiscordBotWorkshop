@@ -1,0 +1,22 @@
+{
+  "name": "angelabot",
+  "version": "1.0.0",
+  "description": "my discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rachelombok/DiscordBotWorkshop.git"
+  },
+  "author": "rachel ombok",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rachelombok/DiscordBotWorkshop/issues"
+  },
+  "homepage": "https://github.com/rachelombok/DiscordBotWorkshop#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
