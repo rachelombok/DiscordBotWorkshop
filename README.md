@@ -141,7 +141,7 @@ If you push your repo as is, your secret bot token will be exposed publicly will
 TOKEN='your-bot-token'
 PREFIX='your-prefix'
 ```
-* Create a gitignore file\ 
+* Create a gitignore file<br> 
 `touch .gitignore`
 * install the `dotenv` dependency\
 `npm install dotenv`
@@ -151,7 +151,7 @@ PREFIX='your-prefix'
 `git rm -r --cached .env` and `git rm -r --cached node_modules`
 * now if you run `git status` in your terminal, it will show all the files that are untracked in your project
 * in `index.js`, add `require('dotenv').config();` to the top of the file
-* instead of importing the config variables from `config.json` we can now use the `.env` file variables by using\ `process.env.TOKEN` and `process.env.PREFIX`
+* instead of importing the config variables from `config.json` we can now use the `.env` file variables by using:<br>  `process.env.TOKEN` and `process.env.PREFIX`
 * if you are working on a team, you can add the environment variables by going to the **Settings** tab in your repository, navigating to **Environments**, and clicking the **New Environments** button to add the variable secrets
 * You can now host your bot on an external service, tutorial links and resources are listed below.
 
