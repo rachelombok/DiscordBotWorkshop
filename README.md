@@ -161,4 +161,4 @@ PREFIX='your-prefix'
 * [Definitive Guide for hosting your Discord Bot](https://www.writebots.com/discord-bot-hosting/)
 ## Conclusion
 
-if you have any questions or feedback, let me know by messaging me in Discord!
+if you have any questions or feedback, let me know by messaging me in Discord! Watch the live workshop [here](https://www.youtube.com/watch?v=9dnclUWFXXU).
