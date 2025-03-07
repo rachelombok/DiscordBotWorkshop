@@ -22,9 +22,7 @@ my name is Rachel, and I am currently in her senior year at New York University,
 majoring in Computer Science and minoring in Game Engineering. my interests include 
 web development, game engineering, 3D modeling and AR and VR!
 
-* twitter ([therachelplan](https://twitter.com/therachelplan))
 * linkedin ([rachelombok](https://linkedin.com/in/rachelombok))
-* discord (racheletc#1212)
 
 ## Prerequisites
 
